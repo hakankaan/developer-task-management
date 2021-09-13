@@ -9,7 +9,7 @@ Backend should be running on 8000 port or change the port value at *frontend/App
 To start front end project run **npm i**  then **npm start**
 Browse http://localhost:3000/ 
 
-Some rules was unclear for me -because of the weekend i couldn't reach you- considered like below.
+Some rules was unclear for me -because of the weekend i didn't wont to disturb- considered like below.
 - Developer with lower difficulty can't be assigned to higher difficulty job.
 - If developer with higher difficulty assigned to lower difficulty job, duration doesn't change.
 - Wrote the algorithm to handle the logic with more developers.
